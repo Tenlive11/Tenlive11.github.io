@@ -13,6 +13,7 @@ h1{
     display: flex;
     justify-content: center;
     font-size: 3em;
+    text-align: center;
 }
 div{
     /* display: flex;
